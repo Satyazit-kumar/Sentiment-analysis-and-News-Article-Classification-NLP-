@@ -1,5 +1,6 @@
 # **IMDb Movie Review Sentiment Analysis**
 
+#### Dataset : [Imdb](https://docs.google.com/spreadsheets/d/106x15uz8ccQ6Wvpc8-sYjXisBN8vewS435I7z3wd4sw/edit?gid=1889101679#gid=1889101679)
 
 ### **Problem Statement**
   
@@ -95,6 +96,9 @@ Among all the models tested, Logistic Regression performed the best, giving the 
 
 
 # News Article Classification
+ 
+  #### Dataset: [data_news](https://docs.google.com/spreadsheets/d/1m4YMfqQxo_DcbtzGqbfZitvJmytbWUE8qjixhHmtadk/edit?gid=1552269726#gid=1552269726)
+
 ## Problem Statement:
 The primary objective of this project is to build a classification model that can automatically
 categorize news articles into different predefined categories. The model will be trained using
